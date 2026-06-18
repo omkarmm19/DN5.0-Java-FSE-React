@@ -1,41 +1,58 @@
-# Week 1 - Digital Nurture 5.0 Java FSE
-
-## Overview
-
-This repository contains the solutions and implementations completed during Week 1 of the Cognizant Digital Nurture 5.0 Java Full Stack Engineer program.
+# Week 1
 
 ## Topics Covered
 
-### Design Patterns
-- Singleton Pattern
-- Factory Method Pattern
+### Design Patterns and Principles
 
-### Data Structures & Algorithms (DSA)
-- Ecommerce Search
-- Financial Forecasting using Recursion
+* Singleton Pattern
+* Factory Method Pattern
+* Builder Pattern
+* Adapter Pattern
+* Dependency Injection
+
+### Data Structures and Algorithms
+
+* Inventory Management System
+* E-Commerce Search Function
+* Sorting Customer Orders
+* Employee Management System
+* Task Management System
+* Library Management System
+* Financial Forecasting
 
 ### PL/SQL Programming
-- Control Structures
-- Stored Procedures
+
+* Control Structures
+* Cursors
+* Stored Procedures
 
 ### JUnit Testing
-- Setting Up JUnit
-- Assertions
-- Arrange-Act-Assert (AAA) Pattern & Test Fixtures
+
+* Exercise 1: Setting Up JUnit
+* Exercise 3: Assertions
+* Exercise 4: AAA Pattern and Test Fixtures
 
 ### Mockito
-- Mocking and Stubbing
-- Verifying Interactions
 
----
+* Exercise 1: Mocking and Stubbing
+* Exercise 2: Verifying Interactions
 
-## Folder Structure
+### SLF4J Logging Framework
 
-```text
-Week1
-├── DesignPatterns
-├── DSA
-├── PLSQL
-├── JUnit
-├── Mockito
-└── Notes
+* Exercise 1: Error and Warning Logging
+* Exercise 2: Parameterized Logging
+
+## Tools Used
+
+* Java
+* Maven
+* Oracle SQL
+* JUnit 4
+* Mockito
+* SLF4J
+* Logback
+* Git & GitHub
+
+## Outcome
+
+Successfully completed all mandatory Week 1 hands-on exercises covering Design Patterns, DSA, PL/SQL, Unit Testing, Mocking, and Logging Frameworks.
